@@ -38,9 +38,21 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <h3>Other</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" width="45" height="45"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" width="45" height="45"/>
 </p>
-  <img src="" alt="" width="45" height="45"/>
+
+---
+<h2 align="left">Connect with me</h2>
+<p align="center">
+<a href="https://www.facebook.com/LeHoangKhanhEK">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/>
+</a>
+<a href="mailto: lehoangkhanh2846912002@gmail.com">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
+</a>
+</p>
+  
 
 
 
