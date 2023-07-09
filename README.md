@@ -48,8 +48,8 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <a href="https://www.facebook.com/LeHoangKhanhEK">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/>
 </a>
-<a href="mailto: lehoangkhanh2846912002@gmail.com">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
+<a href="https://www.youtube.com/channel/UCvdrmzbczF999RD0VX2iytQ">
+  <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
 </a>
 </p>
   
