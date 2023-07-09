@@ -35,9 +35,10 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
 </p>
-<h3>Tool</h3>
+<h3>Other</h3>
 <p align="left">
-  <img src="" alt="" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" width="45" height="45"/>
 </p>
   <img src="" alt="" width="45" height="45"/>
 
