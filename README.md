@@ -28,6 +28,8 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <h3>Integrated Development Environment</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="arduino" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="45" height="45"/>
 </p>
 <h3>Tool</h3>
