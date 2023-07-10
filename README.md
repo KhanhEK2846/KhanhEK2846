@@ -16,14 +16,15 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" title="perl" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" title="python" width="45" height="45"/>
 </p>
-<h3>Hardware Description Language</h3>
-<p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" title="verilog" width="45" height="45"/>
-</p>
 <h3>Frontend Development</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" title="html" width="45" height="45"/>
+</p>
+<h3>Other Language</h3>
+<p align="left">
+  <img src="https://www.spicelang.com/static/logo_600x600.png" alt="SPICE" title="SPICE" width="45" height="45"/>
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" title="verilog" width="45" height="45"/>
 </p>
 <h3>Integrated Development Environment</h3>
 <p align="left">
@@ -32,9 +33,10 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="45" height="45"/>
 </p>
-<h3>Tool</h3>
+<h3>Electronics Design Automation</h3>
 <p align="left">
-  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" title="node-red" width="45" height="45"/>
+  <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="EasyEDA" title="EasyEDA" width="45" height="45"/>
+  <img src="https://www.gnu.org/software/electric/electric.jpg" alt="Electric VLSI" title="Electric VLSI" width="45" height="45"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" title="quartus" width="45" height="45"/>
   <img src="https://images.synopsys.com/is/image/synopsys/synopsys_color-2?$responsive$&dpr=off" alt="Synopsys Custom
 Design" title="Synopsys Custom Design" width="45" height="45"/>
@@ -52,6 +54,7 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 <h3>Other</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="45" height="45"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" title="node-red" width="45" height="45"/>
 </p>
 
 <!--
