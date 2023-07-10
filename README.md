@@ -37,6 +37,8 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <p align="left">
   <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="EasyEDA" title="EasyEDA" width="45" height="45"/>
   <img src="https://www.gnu.org/software/electric/electric.jpg" alt="Electric VLSI" title="Electric VLSI" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg" alt="Ngspice" title="Ngspice" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" title="Proteus" width="45" height="45"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" title="quartus" width="45" height="45"/>
   <img src="https://images.synopsys.com/is/image/synopsys/synopsys_color-2?$responsive$&dpr=off" alt="Synopsys Custom
 Design" title="Synopsys Custom Design" width="45" height="45"/>
