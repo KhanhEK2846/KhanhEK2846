@@ -4,7 +4,7 @@ My real name is secret. I'm a Embedded Developers. <br>
 I'm studying at University Information Technology. My major is computer engineering, majoring in embedded. <br>
 My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">Skills </h2>
 <h3>Programming Languages</h3>
@@ -66,7 +66,7 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 </p>
 -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h2>
 <p align="center">
 <a href="https://www.facebook.com/LeHoangKhanhEK">
