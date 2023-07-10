@@ -46,6 +46,13 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" title="quartus" width="45" height="45"/>
 </p>
 
+<!--
+<h3>/h3>
+<p align="left">
+  <img src="" alt="" title="" width="45" height="45"/>
+</p>
+-->
+
 ---
 <h2 align="left">Connect with me</h2>
 <p align="center">
