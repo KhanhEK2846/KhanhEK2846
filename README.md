@@ -9,6 +9,7 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <h2 align="left">Skills </h2>
 <h3>Programming Languages</h3>
 <p align="left">
+  <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="assembly" title="ASM" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="45" height="45"/>
@@ -24,10 +25,17 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" title="html" width="45" height="45"/>
 </p>
-<h3>IDE</h3>
+<h3>Integrated Development Environment</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="arduino" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="45" height="45"/>
+</p>
+<h3>Tool</h3>
+<p align="left">
+  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" title="node-red" width="45" height="45"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" title="quartus" width="45" height="45"/>
+  <img src="https://images.synopsys.com/is/image/synopsys/synopsys_color-2?$responsive$&dpr=off" alt="Synopsys Custom
+Design" title="Synopsys Custom Design" width="45" height="45"/>
 </p>
 <h3>Frameworks</h3>
 <p align="left">
@@ -42,12 +50,10 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 <h3>Other</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="45" height="45"/>
-  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" title="node-red" width="45" height="45"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-svg-vector.svg" alt="quartus" title="quartus" width="45" height="45"/>
 </p>
 
 <!--
-<h3>/h3>
+<h3></h3>
 <p align="left">
   <img src="" alt="" title="" width="45" height="45"/>
 </p>
