@@ -6,7 +6,7 @@ My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">Skills </h2>
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Skills </h2>
 <h3>Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="assembly" title="ASM" width="45" height="45"/>
