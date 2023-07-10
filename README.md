@@ -3,8 +3,10 @@
 <img align="right" src="https://media.giphy.com/media/LPlmexh8SLjO9OwPxP/giphy.gif" />
 <div>
   I'm a Embedded Developers. <br>
-  I'm studying at University Information Technology. My major is computer engineering, majoring in embedded. <br>
-   My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
+  I'm studying at University Information Technology.<br>
+  My major is computer engineering, majoring in embedded. <br>
+  My hobby is sleeping.<br>
+  I'm interested in Game Development & Machine Learning.<br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
