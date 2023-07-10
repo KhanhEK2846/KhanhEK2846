@@ -1,8 +1,11 @@
 <h1 align="center"> <b>Hi, I'm EK - A random coder on Github </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a Embedded Developers. <br>
-I'm studying at University Information Technology. My major is computer engineering, majoring in embedded. <br>
-My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
+<img align="right" src="https://media.giphy.com/media/LPlmexh8SLjO9OwPxP/giphy.gif" />
+<div>
+  I'm a Embedded Developers. <br>
+  I'm studying at University Information Technology. My major is computer engineering, majoring in embedded. <br>
+   My hobby is sleeping. I'm interested in Game Development & Machine Learning.<br>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -76,6 +79,7 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
   <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
 </a>
 </p>
+
 
 
 
