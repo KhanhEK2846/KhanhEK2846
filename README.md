@@ -1,8 +1,9 @@
+<img align="center" src="https://media.tenor.com/b9RyspBVyu8AAAAC/lady-avalon-merlin-prototype.gif" width="100%"/>
 <h1 align="center"> Hi, I'm <a href="https://github.com/KhanhEK2846">EK</a> - A random coder on Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div>
   <h2><img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px"/> About me </h2>
-  <img align="right" src="https://media.tenor.com/b9RyspBVyu8AAAAC/lady-avalon-merlin-prototype.gif" width="210px"/>
+  <img align="right" src="https://media.tenor.com/fX72GwXWN4YAAAAi/touhou-touhou-project.gif" width="120px"/>
   <div>
     I'm a Embedded Developers. <br>
     I'm studying at University Information Technology.<br>
