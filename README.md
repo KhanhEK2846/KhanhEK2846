@@ -1,14 +1,14 @@
 <h1 align="center"> <b>Hi, I'm EK - A random coder on Github </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<!--<img align="right" src="https://media.giphy.com/media/LPlmexh8SLjO9OwPxP/giphy.gif" />-->
 <div>
-  I'm a Embedded Developers. <br>
-  I'm studying at University Information Technology.<br>
-  My major is computer engineering, majoring in embedded. <br>
-  My hobby is sleeping.<br>
-  I'm interested in Game Development & Machine Learning.<br>
+  <img align="https://media.tenor.com/b9RyspBVyu8AAAAC/lady-avalon-merlin-prototype.gif" />
+  <div>
+    I'm a Embedded Developers. <br>
+    I'm studying at University Information Technology.<br>
+    My major is computer engineering, majoring in embedded. <br>
+    My hobby is sleeping.<br>
+    I'm interested in Game Development & Machine Learning.<br>
+  </div>
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Skills </h2>
