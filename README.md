@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Hi, I'm EK - A random coder on Github </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
-  <img align="https://media.tenor.com/b9RyspBVyu8AAAAC/lady-avalon-merlin-prototype.gif" />
+  <img align="right" src="https://media.tenor.com/b9RyspBVyu8AAAAC/lady-avalon-merlin-prototype.gif" width="210px"/>
   <div>
     I'm a Embedded Developers. <br>
     I'm studying at University Information Technology.<br>
