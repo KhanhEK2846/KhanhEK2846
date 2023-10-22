@@ -70,8 +70,8 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 
 <h2 align="left"> My Stats </h2>
 <a href="https://github.com/KhanhEK2846" >
-<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=KhanhEK2846&theme=synthwave&show_icons=true&count_private=true" />
-<img  align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhEK2846&theme=synthwave&hide_border=false" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KhanhEK2846&theme=synthwave&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhEK2846&theme=synthwave&hide_border=false" />
 <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KhanhEK2846&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhanhEK2846&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </a>
