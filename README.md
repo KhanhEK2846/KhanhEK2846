@@ -69,9 +69,9 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> My Stats </h2>
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KhanhEK2846&theme=dark&show_icons=true&count_private=true" />
+<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=KhanhEK2846&theme=synthwave&show_icons=true&count_private=true" />
+<img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhanhEK2846&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KhanhEK2846&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhanhEK2846&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > Connect with me <img src="https://media.tenor.com/1MKA5Dtw2AgAAAAi/muse-dash-touhou.gif" width="50" height="50"></h2>
