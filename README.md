@@ -56,13 +56,26 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
   <img src="https://github.com/espressif/esp-idf/blob/master/docs/_static/espressif-logo.svg" alt="esp-idf" title="esp-idf" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="PlatformIO" title="PlatformIO" width="45" height="45"/>
 </p>
+<h3>Microframework</h3>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="45" height="45"/>
+</p>
 <h3>Database</h3>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" title="firebae" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
 </p>
+<h3>Library</h3>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="45" height="45"/>
+</p>
 <h3>Other</h3>
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="jupyter" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="45" height="45"/>
   <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" title="node-red" width="45" height="45"/>
 </p>
