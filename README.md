@@ -111,10 +111,16 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > Connect with me <img src="https://media.tenor.com/1MKA5Dtw2AgAAAAi/muse-dash-touhou.gif" width="50" height="50"></h2>
 <p align="center">
-<a href="https://www.facebook.com/LeHoangKhanhEK">
+<a href="https://youtu.be/dQw4w9WgXcQ?si=pdBe2fkN_GQCIXmy" target="blank">
+  <img height="50" width="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/>
+</a>
+<a href="https://www.facebook.com/LeHoangKhanhEK" target="blank">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/>
 </a>
-<a href="https://www.youtube.com/channel/UCvdrmzbczF999RD0VX2iytQ">
+<a href="mailto:lehoangkhanh2846912002@gmail.com" target="blank">
+  <img height="50"width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
+</a>
+<a href="https://www.youtube.com/channel/UCvdrmzbczF999RD0VX2iytQ" target="blank">
   <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
 </a>
 </p>
