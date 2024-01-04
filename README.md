@@ -6,8 +6,8 @@
 
 - I'm a **Embedded Developers**. 
 - I'm studying at **University Information Technology**.
-- My major is computer engineering, majoring in embedded.
-- My hobby is sleeping.
+- I am studying **Computer Engineering** with a specialization in **Embedded Systems**.
+- My hobby is sleeping and researching.
 - I'm interested in Game Development & Machine Learning.
 - Currently doing research or side project by Self
 - I’m currently open for **an Intern** or **a new job opportunity**
