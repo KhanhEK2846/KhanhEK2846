@@ -11,7 +11,7 @@
   About me 
 </h2>
 <div>
-<img align="right" src="images\IoTs.gif" style="max-height:250px; max-width:450px;"/>
+<img align="right" src="images\IoTs.gif" style="max-height:250px; max-width:120px;"/>
 
 - I'm a **Embedded Developers**.
 - I'm studying at **University Information Technology**.
