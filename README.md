@@ -1,4 +1,4 @@
-<img align="center" src="https://media.tenor.com/lNCLe4dLR10AAAAC/yang-guifei-guifei.gif" width="100%"/>
+<img align="center" src="./images/IoTs.gif" width="100%"/>
 <h1 align="center">
   Hi, I'm 
   <a href="https://github.com/KhanhEK2846">EK</a> 
