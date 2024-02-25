@@ -1,21 +1,38 @@
 <img align="center" src="https://media.tenor.com/lNCLe4dLR10AAAAC/yang-guifei-guifei.gif" width="100%"/>
-<h1 align="center"> Hi, I'm <a href="https://github.com/KhanhEK2846">EK</a> - A random coder on Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm 
+  <a href="https://github.com/KhanhEK2846">EK</a> 
+  - A random coder on Github 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h2><img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px"/> About me </h2>
-<img align="right" src="https://media.tenor.com/fX72GwXWN4YAAAAi/touhou-touhou-project.gif" width="120px"/>
+<h2 style= "display: flex; align-items: center;">
+  <img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px" style="margin-right: 5px"/> 
+  About me 
+</h2>
+<div>
+<img align="right" src="images\IoTs.gif" style="max-height:250px; max-width:450px;"/>
 
-- I'm a **Embedded Developers**. 
+- I'm a **Embedded Developers**.
 - I'm studying at **University Information Technology**.
 - I am studying **Computer Engineering** with a specialization in **Embedded Systems**.
 - My hobby is sleeping and researching.
 - I'm interested in Game Development & Machine Learning.
 - Currently doing research or side project by Self
 - I’m currently open for **an Intern** or **a new job opportunity**
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Skills <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></h2>
-<h3>Programming Languages</h3>
+<h2 align="left" style= "display: flex; align-items: center;"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="margin-right: 10px">
+  Skills 
+  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px style="margin-left: 5px">
+</h2>
+
+<h3 style= "display: flex; align-items: center;" >
+  <img src="images\Programming_Languages.gif" width="40px" style="margin-right: 5px">
+  Programming Languages
+</h3>
 <p align="center">
   <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="assembly" title="ASM" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
@@ -105,11 +122,14 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
     </a>
 </div>
 
-
-</p>        
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > Connect with me <img src="https://media.tenor.com/1MKA5Dtw2AgAAAAi/muse-dash-touhou.gif" width="50" height="50"></h2>
+<h2 align="left" > 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
+  Connect with me 
+  <img src="https://media.tenor.com/1MKA5Dtw2AgAAAAi/muse-dash-touhou.gif" width="50" height="50">
+</h2>
 <p align="center">
 <a href="https://youtu.be/dQw4w9WgXcQ?si=pdBe2fkN_GQCIXmy" target="blank">
   <img height="50" width="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/>
