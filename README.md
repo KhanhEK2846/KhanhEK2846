@@ -10,8 +10,8 @@
   <img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px" style="margin-right: 5px"/> 
   About me 
 </h2>
-<div>
-<img align="right" src="images\IoTs.gif" style="max-height:250px; max-width:120px;"/>
+
+<img align="right" src="https://media.tenor.com/fX72GwXWN4YAAAAi/touhou-touhou-project.gif" width="120px"/>
 
 - I'm a **Embedded Developers**.
 - I'm studying at **University Information Technology**.
@@ -20,7 +20,7 @@
 - I'm interested in Game Development & Machine Learning.
 - Currently doing research or side project by Self
 - I’m currently open for **an Intern** or **a new job opportunity**
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left" style= "display: flex; align-items: center;"> 
