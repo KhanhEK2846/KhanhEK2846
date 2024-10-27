@@ -18,7 +18,7 @@
 - My major is **Computer Engineering** with a specialization in **Embedded Systems**.
 - My hobby is sleeping, researching and collect.
 - I'm interested in Game Development & Machine Learning.
-- Currently doing research or side project by Self
+- Currently learning about Penetration Testing and Ethical Hacking on Linux
 - I’m currently open for **a Fresher** or **a new job opportunity**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
