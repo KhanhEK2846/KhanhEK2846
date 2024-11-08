@@ -1,14 +1,14 @@
 <img align="center" src="./images/IoTs.gif" width="100%"/>
 <h1 align="center">
-  Hi, I'm 
-  <a href="https://github.com/KhanhEK2846">EK</a> 
-  - A random coder on Github 
+  Hi, I'm
+  <a href="https://github.com/KhanhEK2846">EK</a>
+  - A random coder on Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h2 style= "display: flex; align-items: center;">
-  <img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px" style="margin-right: 5px"/> 
-  About me 
+  <img src="https://media.tenor.com/JwfYDJXgZlUAAAAi/aither-epic-seven.gif" width="40px" style="margin-right: 5px"/>
+  About me
 </h2>
 
 <img align="right" src="https://media.tenor.com/fX72GwXWN4YAAAAi/touhou-touhou-project.gif" width="120px"/>
@@ -20,12 +20,13 @@
 - I'm interested in Game Development & Machine Learning.
 - Currently learning about Penetration Testing and Ethical Hacking on Linux
 - I’m currently open for **a Fresher** or **a new job opportunity**
+- Know about my experiences via <a href="./images/MyCV.pdf">Resume</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left" style= "display: flex; align-items: center;"> 
+<h2 align="left" style= "display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="margin-right: 10px">
-  Skills 
+  Skills
   <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px style="margin-left: 5px">
 </h2>
 
@@ -107,7 +108,7 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KhanhEK2846&theme=synthwave&show_icons=true&count_private=true" />
   <br></br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhEK2846&theme=synthwave&hide_border=false" /> 
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhEK2846&theme=synthwave&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
@@ -125,9 +126,9 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left" > 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
-  Connect with me 
+<h2 align="left" >
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+  Connect with me
   <img src="https://media.tenor.com/1MKA5Dtw2AgAAAAi/muse-dash-touhou.gif" width="50" height="50">
 </h2>
 <p align="center">
