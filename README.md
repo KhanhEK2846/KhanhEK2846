@@ -38,6 +38,8 @@
   <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="assembly" title="ASM" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" alt="perl" title="perl" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" title="python" width="45" height="45"/>
@@ -73,9 +75,6 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
 <p align="center">
   <img src="https://github.com/espressif/esp-idf/blob/master/docs/_static/espressif-logo.svg" alt="esp-idf" title="esp-idf" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="PlatformIO" title="PlatformIO" width="45" height="45"/>
-</p>
-<h3>Microframework</h3>
-<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="45" height="45"/>
 </p>
 <h3>Database</h3>
@@ -83,7 +82,7 @@ Design" title="Synopsys Custom Design" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" title="firebae" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
 </p>
-<h3>Library</h3>
+<h3>Machine Learning</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="45" height="45"/>
